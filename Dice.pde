@@ -20,7 +20,7 @@
         else if (bob.rollDie == 3){
           numTotal+= 3;
       }
-        else if(bob.rollDie == 4){'
+        else if(bob.rollDie == 4){
           numTotal+= 4;
        }
        else if(bob.rollDie == 5){
