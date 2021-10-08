@@ -29,7 +29,6 @@
        else if (bob.rollDie == 6){
          numTotal+= 6;
        }
-        System.out.println(numTotal);
     
   }
     }
